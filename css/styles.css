@@ -434,6 +434,7 @@ p { margin: 0 0 1em; }
 }
 .fine { font-size: 0.9rem; color: var(--muted); margin-top: 12px; }
 .mt { margin-top: 24px; }
+.fine.subhead { margin: -6px 0 6px; }
 .note { text-align: center; color: var(--muted); font-size: 0.9rem; margin-top: 36px; }
 
 /* Hours & visit */

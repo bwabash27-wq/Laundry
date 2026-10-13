@@ -15,11 +15,13 @@ It is plain HTML, CSS, and JavaScript with no build step. Open `index.html` in a
 
 Some information below is **placeholder** text. Update it to match the store:
 
-1. **Prices**: the `#pricing` section in `index.html`.
-2. **Hours**: the hours table in `index.html`, the footer hours, **and** the `HOURS` object at the top of `js/main.js`. The "Open now" badge reads from `HOURS`.
+1. **Washer prices**: 20 lb ($3.50), 30 lb ($5.75), and 60 lb ($7.75) are confirmed. The 40 lb and 50 lb prices still need to be added (see the TODO in the `#pricing` section of `index.html`).
+2. **Dryer prices**: still a placeholder.
 3. **Payment**: the store currently says quarters plus a change machine. Change it if the store takes cards or app payment.
-4. **Wash & fold details**: the price per pound, minimum, and turnaround.
+4. **Wash & fold details**: confirm the store offers it. If it does, check the price per pound, minimum, and turnaround.
 5. **Phone number / email**: none is listed yet. Add one to the footer and the "Visit us" section if you'd like.
+
+Hours (7 AM – 10 PM daily) are confirmed. If they ever change, update the hours table in `index.html`, the footer, **and** the `HOURS` object at the top of `js/main.js`, which the "Open now" badge reads from.
 
 ## Publishing
 
