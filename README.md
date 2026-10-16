@@ -27,3 +27,7 @@ Any static host works. For free options:
 
 - **GitHub Pages**: Repo Settings → Pages → deploy from this branch, root folder.
 - **Netlify / Cloudflare Pages**: connect the repo with no build command, and set the publish directory to `/`.
+
+## Brush Coach
+
+`brush/` holds a separate, unrelated app: Brush Coach, which gives real-time feedback on how you brush your teeth. See [`brush/README.md`](brush/README.md). It's served at `/brush/` alongside the site and isn't linked from it.
